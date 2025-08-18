@@ -1,1 +1,0 @@
-export default function Privacy(){return(<div className='prose max-w-none'><h1>Privacy Policy</h1><p>We collect account emails, profile info you provide, and job/offer/chat content to operate the app. Images you upload are stored. We do not sell your data.</p></div>);}
