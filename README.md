@@ -1,1 +1,0 @@
-# NeighborHub MEGA — all-in-one app\nSee supabase/schema.sql then set env vars; run `npm install` and `npm run dev`.\n
